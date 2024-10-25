@@ -3,9 +3,7 @@ Feel free to ask for more personalized resources depending on a project you plan
 
 
 ## Contents
-- https://www.w3schools.com/html/
-- https://web.dev/learn/html
-- https://html.com/
+
 - [Developer Roadmaps](#-developer-roadmaps)
 - [Documentations and Cheatsheets](#-documentations-and-cheatsheets)
 - [Design Tools](#-design-tools)
@@ -79,7 +77,9 @@ Feel free to ask for more personalized resources depending on a project you plan
 - [HTTPS](https://howhttps.works) - How HTTPS works?
 
 ### 🖼 HTML AND CSS
-
+- https://www.w3schools.com/html/
+- https://web.dev/learn/html
+- https://html.com/
 - [freeCodeCamp](https://www.freecodecamp.org/learn) - Free course to learn Web Development.
 - [Interneting Is Hard](https://www.internetingishard.com) - Friendly web development tutorials for complete beginners.
 - [Learn to Code HTML & CSS](https://learn.shayhowe.com) - The guide covers a variety of web design and development topics, ranging from beginner to advanced skill levels.
