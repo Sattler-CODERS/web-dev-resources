@@ -1,18 +1,5 @@
-##Full Stack Development Resources you need.
-
-<div align="center">
-  <div>
-    <img width="500" src="media/logo.svg" alt="Web Dev Resources">
-  </div>
-  </br>
-  <h6>Web Development Resources You Ever Need</h6>
-  <p>
-    <span style="font-weight: bold"><a href="https://github.com/iamismile">Ismile Hossain</a></span>
-    </br>
-    <sub>Follow me on <a href="https://twitter.com/whoisismile">Twitter</a>, <a href="https://www.linkedin.com/in/iamismile/">LinkedIn</a>.</sub>
-  </p>
-</div>
-
+## Full Stack Development Resources you need.
+Feel free to ask for more personalized resources depending on a project you plan to work on.
 
 
 ## Contents
