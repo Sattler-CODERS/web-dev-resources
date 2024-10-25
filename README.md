@@ -3,10 +3,9 @@ Feel free to ask for more personalized resources depending on a project you plan
 
 
 ## Contents
-https://www.w3schools.com/html/
-https://web.dev/learn/html
-https://html.com/
-
+- https://www.w3schools.com/html/
+- https://web.dev/learn/html
+- https://html.com/
 - [Developer Roadmaps](#-developer-roadmaps)
 - [Documentations and Cheatsheets](#-documentations-and-cheatsheets)
 - [Design Tools](#-design-tools)
